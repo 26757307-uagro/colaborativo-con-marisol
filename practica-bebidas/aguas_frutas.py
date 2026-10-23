@@ -34,3 +34,4 @@ if precio > 0:
     print(f'Total a pagar: $ {total}')
 else:
     print('No existe la bebida, solo hay de mango, jamaica y horchata')
+    print("mensaje de prueba en mi rama")
