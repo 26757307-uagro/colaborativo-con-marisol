@@ -33,4 +33,4 @@ if precio > 0:
     print(f'{cantidad} de {bebida}')
     print(f'Total a pagar: $ {total}')
 else:
-    print('No existe la bebida')
+    print('No existe la bebida, solo hay de mango, jamaica y horchata')
